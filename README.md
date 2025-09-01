@@ -33,7 +33,7 @@ APIs Used:
 🚀 How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/your-username/weather-now.gitcd weather-now
+git clone https://github.com/renukamandapati/weather-now.gitcd weather-now
 
 2. Install dependencies:
 npm install
