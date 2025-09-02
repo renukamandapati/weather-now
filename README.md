@@ -18,11 +18,13 @@ This project was developed as part of the Web Developer assignment for Aganitha 
 
 🎨 Clean & Responsive UI built with CSS.
 
+
 🛠️ Tech Stack
 
 Frontend Framework: React.js
 
 Styling: CSS
+
 
 APIs Used:
 
@@ -33,7 +35,7 @@ APIs Used:
 🚀 How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/renukamandapati/weather-now.gitcd weather-now
+git clone https://github.com/renukamandapati/weather-now
 
 2. Install dependencies:
 npm install
@@ -41,7 +43,6 @@ npm install
 3. Start the app:
 npm start
 
-The app will open at 👉 http://localhost:3000
 
 🌍 Deployment
 
