@@ -48,6 +48,6 @@ npm start
 
 🌍 Deployment
 
-The project is deployed on Netlify/Vercel for easy access:
+The project is deployed on Netlify for easy access:
 
 🔗 Live Demo Link: [https://cozy-marigold-29f018.netlify.app/]
