@@ -45,6 +45,6 @@ The app will open at 👉 http://localhost:3000
 
 🌍 Deployment
 
-This project is deployed online for easy access.
+The project is deployed on Netlify/Vercel for easy access:
 
-🔗 Live Demo Link: [Add ]
+🔗 Live Demo Link: [https://cozy-marigold-29f018.netlify.app/]
